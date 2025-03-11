@@ -11,7 +11,7 @@
   ![Last commit](https://img.shields.io/github/last-commit/franlo42/wariokart3d?logo=n8n&logoColor=%2320BEFF&color=78226d)
   ![GitHub repo size](https://img.shields.io/github/repo-size/franlo42/wariokart3d?logo=transmission&color=fdd50b)
 
-Mini web port of the famous saga Mario Kart dedicated to Wario.
+Mini web port of the famous videogame saga Mario Kart but, of course, dedicated to my beloved Wario.
 
 HA HA It's-a me! WARIO!!
 ---
