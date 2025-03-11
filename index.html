@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Wario Kart 3D</title>
+        <style>
+            body{ 
+                background: url('/img/garage.jpeg') center fixed;
+                background-size: cover;
+                align-items: center;
+                justify-content: center;
+                overflow: hidden;
+                margin: auto;
+                display: flex;
+                flex-direction: column;
+            }
+            #inicio {
+                margin: auto;
+            }
+            #titulo {
+                width: 600px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            #play {
+                background: linear-gradient(to right, #FDD50B, #78226D);
+                border: none;
+                padding: 15px 30px;
+                font-size: 24px;
+                cursor: pointer;
+                color: white;
+                margin: auto;
+                margin-top: 80px;
+                border-radius: 10px;
+                display: block;
+            }
+            #ready {
+                background: linear-gradient(to right, #FDD50B, #78226D);
+                border: none;
+                padding: 15px 30px;
+                font-size: 24px;
+                cursor: pointer;
+                color: white;
+                display: none;
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+                height: 100%;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                z-index: 10;
+                margin: auto;
+                width: 125px;
+                height: 50px;
+                border-radius: 10px;
+                text-align: center;
+            }
+            #container {
+            width: fit-content;
+            height: fit-content;
+            margin-top: 100px;
+            }
+            #countdown{
+                display: none;
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+                height: 100%;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                z-index: 10;
+
+            }
+            #timer {
+                position: absolute;
+                top: 20px;
+                left: 20px;
+                font-size: 24px;
+                font-weight: bold;
+                color: black;
+                background: white;
+                padding: 10px;
+                border-radius: 5px;
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="inicio">
+            <img id="titulo" src="img/introCut.png" alt="gameTitle">
+            <button id="play">PLAY</button>
+            <audio id="musicIntro" autoplay loop>
+                <source src="music/intro.mp3" type="audio/mp3">
+            </audio>
+            <audio id="musicRace" loop>
+                <source src="music/race.mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <button id="ready">READY</button>
+        <img id="countdown" src="img/countdown.gif" alt="countdown" width="500" height="600">
+        <audio id="musicCountdown">
+            <source src="music/countdown.mp3" type="audio/mp3">
+        </audio>
+        <div id="timer">00:00:00</div>
+        <div id="container"></div>
+        <script type="importmap">
+            { "imports": { "three": "../lib/three.module.js"} }
+        </script>
+        <script  type="module" src="js/game.js"></script>
+    </body>
+</html>

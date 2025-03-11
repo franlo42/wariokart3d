@@ -1,0 +1,8 @@
+newmtl lambert314
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert314.png
+map_Kd lambert314.png
+map_d lambert314.png

@@ -1,0 +1,112 @@
+newmtl ami
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka ami.png
+map_Kd ami.png
+map_d ami.png
+newmtl dash
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka dash.png
+map_Kd dash.png
+map_d dash.png
+newmtl doro
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka doro.png
+map_Kd doro.png
+map_d doro.png
+newmtl lambert238
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert238.png
+map_Kd lambert238.png
+map_d lambert238.png
+newmtl lambert308
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert308.png
+map_Kd lambert308.png
+map_d lambert308.png
+newmtl lambert310
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert310.png
+map_Kd lambert310.png
+map_d lambert310.png
+newmtl lambert311
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert311.png
+map_Kd lambert311.png
+map_d lambert311.png
+newmtl lambert313
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert313.png
+map_Kd lambert313.png
+map_d lambert313.png
+newmtl lambert327
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert327.png
+map_Kd lambert327.png
+map_d lambert327.png
+newmtl lambert329
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert329.png
+map_Kd lambert329.png
+map_d lambert329.png
+newmtl lambert330
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert330.png
+map_Kd lambert330.png
+map_d lambert330.png
+newmtl lambert331
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert331.png
+map_Kd lambert331.png
+map_d lambert331.png
+newmtl lambert336
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert336.png
+map_Kd lambert336.png
+map_d lambert336.png
+newmtl road
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka road.png
+map_Kd road.png
+map_d road.png
