@@ -5,7 +5,7 @@
 
 # WARIOKART 3D
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/franlo42/wariokart3d?logo=mongodb&color=fdd50b)
+  ![GitHub last commit](https://img.shields.io/github/created-at/franlo42/wariokart3d?logo=mongodb&color=fdd50b)
   ![GitHub contributors](https://img.shields.io/github/contributors/franlo42/wariokart3d?logo=draugiemdotlv&color=78226d)
   ![GitHub top language](https://img.shields.io/github/languages/top/franlo42/wariokart3d?logo=academia&color=fdd50b)
   ![Last commit](https://img.shields.io/github/last-commit/franlo42/wariokart3d?logo=n8n&logoColor=%2320BEFF&color=78226d)
