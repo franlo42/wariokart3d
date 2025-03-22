@@ -17,7 +17,9 @@ HA HA It's-a me! WARIO!!
 ---
 Website accesible via: <a href="https://franlo42.is-a.dev/3js/wariokart3d/">https://franlo42.is-a.dev/3js/wariokart3d/</a>
 </div>
+
 ---
+
 UNDER DEVELOPMENT. NOT FINISHED AT ALL. NEEDS TO BE ENHANCED.
 
 PATIENCE PLEASE 🙏🏻
